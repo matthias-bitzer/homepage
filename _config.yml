@@ -1,6 +1,6 @@
 # Site settings
 title: Matthias Bitzer
-tagline: Your story, beautifully told
+tagline: Research, AI Art and Blog
 description: Personal website featuring AI/ML blog posts, AI art gallery, and publications
 author: Matthias Bitzer
 email: your-email@example.com
@@ -46,11 +46,11 @@ navigation:
   - title: About
     url: /about/
 
-# Social links (optional - update with your actual profiles)
+# Social links
 social:
-  medium: https://medium.com/@your-username
-  github: https://github.com/your-username
-  linkedin: https://linkedin.com/in/your-username
+  medium: https://medium.com/@matthiasbitzer94
+  github: https://github.com/matthias-bitzer
+  linkedin: https://www.linkedin.com/in/matthias-bitzer/
 
 # Defaults
 defaults:

@@ -2,7 +2,7 @@
 layout: gallery
 title: AI Art Gallery
 permalink: /gallery/
-description: Art created with the help of midjourney.com. Meditation and buddhism in a futuristic style.
+description: Art created with the help of Diffusion models.
 images:
   - url: /assets/images/gallery/MatthiasBitzer_buddha_sitting_in_a_forest_getting_enlighted_wit_3d6f867c-8f95-4130-95e0-b9df4d590811 (1).png
     title: The enlightened Buddha

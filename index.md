@@ -5,7 +5,7 @@ title: Home
 
 <div class="hero">
   <h1 class="hero-title">Matthias Bitzer</h1>
-  <p class="hero-subtitle">Your story, beautifully told.</p>
+  <p class="hero-subtitle">Research, AI Art and Blog</p>
 </div>
 
 <section class="section">

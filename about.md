@@ -9,28 +9,6 @@ permalink: /about/
 </header>
 
 <div class="about-content">
-  <div class="about-intro">
-    <!-- Uncomment and add your photo
-    <img src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Matthias Bitzer" class="about-image">
-    -->
-    <div>
-      <p><strong>Matthias Bitzer</strong></p>
-      <p>These are blog articles, also published at <a href="https://medium.com" target="_blank" rel="noopener">medium.com</a>. The subject spans mostly machine learning, programming in python and data science/engineering.</p>
-    </div>
-  </div>
-
-  ## AI/ML Blog
-
-  - **A Bridge from Kurt Gödel to Zen Buddhism** — Dez 2024
-  - **How to use data version control (dvc) in a machine learning project** — Jul 2019
-  - **How to extend Python with C/C++ Code** — Jan 2019
-  - **10 important papers to get started with machine learning** — Sep 2018
-
-  ## AI Art Gallery
-
-  Art created with the help of [midjourney.com](https://midjourney.com). The current series explores meditation and buddhism in a futuristic style (Januar 2023).
-
-  ## Contact
-
-  Update with your preferred contact details (email, GitHub, Medium, LinkedIn).
+  <p>Hi, thanks for checking out my machine learning blog!</p>
+  <p>My name is Matthias and I am currently enrolled in a PhD program at the Bosch Center of Artificial Intelligence (BCAI). My research spans Gaussian processes, active learning and Bayesian optimization, but I am also interested in broader subjects such as generative modeling or interesting neural network architectures (such as e.g. Transfomers). Feel free to comment my blog posts and start some discussions!</p>
 </div>

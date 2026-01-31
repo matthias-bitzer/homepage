@@ -4,8 +4,9 @@ tagline: Research, AI Art and Blog
 description: Personal website featuring AI/ML blog posts, AI art gallery, and publications
 author: Matthias Bitzer
 email: your-email@example.com
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://matthias-bitzer.com" # the base hostname & protocol for your site
+# For GitHub Pages project site: use "/REPO_NAME" (e.g. /homepage). For user site (username.github.io repo) or custom domain at root: use ""
+baseurl: "/homepage"
+url: "https://matthias-bitzer.com" # or https://USERNAME.github.io for project site
 
 # Build settings
 markdown: kramdown

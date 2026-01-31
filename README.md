@@ -37,6 +37,12 @@ This site showcases:
    ```
 4. Visit `http://localhost:4000` in your browser
 
+To preview with the same base path as GitHub Pages (e.g. `https://USERNAME.github.io/homepage/`), run:
+```bash
+bundle exec jekyll serve --baseurl /homepage
+```
+Then open `http://localhost:4000/homepage/`.
+
 ### Building for Production
 
 ```bash

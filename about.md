@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <header class="page-header">
-  <h1>About Me</h1>
+  <h1>About</h1>
 </header>
 
 <div class="about-content">
@@ -14,28 +14,23 @@ permalink: /about/
     <img src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Matthias Bitzer" class="about-image">
     -->
     <div>
-      <p>Hi, I'm <strong>Matthias Bitzer</strong>.</p>
-      <p>I write about machine learning, programming in Python, and data science/engineering. My articles are also published on <a href="https://medium.com">Medium</a>.</p>
+      <p><strong>Matthias Bitzer</strong></p>
+      <p>These are blog articles, also published at <a href="https://medium.com" target="_blank" rel="noopener">medium.com</a>. The subject spans mostly machine learning, programming in python and data science/engineering.</p>
     </div>
   </div>
 
-  ## Interests
+  ## AI/ML Blog
 
-  - **Machine Learning & AI**: Deep learning, neural networks, and practical ML applications
-  - **Programming**: Python, C/C++, and software engineering best practices
-  - **Data Science**: Data engineering, version control for ML, and reproducible research
-  - **AI Art**: Exploring creative applications of generative AI
+  - **A Bridge from Kurt Gödel to Zen Buddhism** — Dez 2024
+  - **How to use data version control (dvc) in a machine learning project** — Jul 2019
+  - **How to extend Python with C/C++ Code** — Jan 2019
+  - **10 important papers to get started with machine learning** — Sep 2018
+
+  ## AI Art Gallery
+
+  Art created with the help of [midjourney.com](https://midjourney.com). The current series explores meditation and buddhism in a futuristic style (Januar 2023).
 
   ## Contact
 
-  Feel free to reach out:
-
-  - **Email**: [your-email@example.com](mailto:your-email@example.com)
-  - **GitHub**: [github.com/your-username](https://github.com/your-username)
-  - **Medium**: [medium.com/@your-username](https://medium.com/@your-username)
-  - **LinkedIn**: [linkedin.com/in/your-username](https://linkedin.com/in/your-username)
-
-  ---
-
-  *Update this page with your actual bio, photo, and contact information.*
+  Update with your preferred contact details (email, GitHub, Medium, LinkedIn).
 </div>

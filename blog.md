@@ -5,8 +5,8 @@ permalink: /blog/
 ---
 
 <header class="page-header">
-  <h1>AI/ML Blog</h1>
-  <p class="page-description">Articles about machine learning, Python programming, and data science/engineering. Also published on Medium.</p>
+  <h1>Matthias' AI Blog</h1>
+  <p class="page-description">These are blog articles, also published at <a href="https://medium.com" target="_blank" rel="noopener">medium.com</a>. The subject spans mostly machine learning, programming in python and data science/engineering.</p>
 </header>
 
 <div class="post-list">

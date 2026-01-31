@@ -17,7 +17,7 @@ title: Home
   <p>This is art created with the help of <a href="https://midjourney.com" target="_blank" rel="noopener">midjourney.com</a>. The subject of this series is meditation and buddhism flavored in a futuristic style.</p>
   <div class="gallery-grid" style="margin-top: 1.5rem;">
     <figure class="gallery-item">
-      <img src="{{ '/assets/images/gallery/MatthiasBitzer_buddha_sitting_in_a_forest_getting_enlighted_wit_3d6f867c-8f95-4130-95e0-b9df4d590811 (1).png' | relative_url }}" alt="The enlightened Buddha" loading="lazy">
+      <img src="{{ '/assets/images/gallery/MatthiasBitzer_buddha_sitting_in_a_forest_getting_enlighted_wit_3d6f867c-8f95-4130-95e0-b9df4d590811_1.png' | relative_url }}" alt="The enlightened Buddha" loading="lazy">
       <figcaption>The enlightened Buddha</figcaption>
     </figure>
     <figure class="gallery-item">

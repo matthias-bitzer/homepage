@@ -6,11 +6,11 @@ author: Matthias Bitzer
 email: your-email@example.com
 # For GitHub Pages project site: use "/REPO_NAME" (e.g. /homepage). For user site (username.github.io repo) or custom domain at root: use ""
 baseurl: "/homepage"
-url: "https://matthias-bitzer.com" # or https://USERNAME.github.io for project site
+# Use GitHub Pages URL so absolute_url works; change to matthias-bitzer.com when using custom domain
+url: "https://matthias-bitzer.github.io"
 
 # Build settings
 markdown: kramdown
-theme: minima
 permalink: /blog/:year/:month/:day/:title/
 
 # Collections

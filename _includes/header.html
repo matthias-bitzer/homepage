@@ -1,0 +1,13 @@
+<header class="site-header">
+  <div class="header-container">
+    <a href="{{ '/' | relative_url }}" class="site-logo">
+      <span class="site-title">{{ site.title }}</span>
+    </a>
+    
+    <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+      <span class="hamburger"></span>
+    </button>
+    
+    {% include navigation.html %}
+  </div>
+</header>

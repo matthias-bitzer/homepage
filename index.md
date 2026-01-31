@@ -60,3 +60,11 @@ title: Home
   </div>
   <p>These are blog articles, also published at <a href="https://medium.com" target="_blank" rel="noopener">medium.com</a>. The subject spans mostly machine learning, programming in python and data science/engineering.</p>
 </section>
+
+<section class="section">
+  <div class="section-header">
+    <h2>Contact</h2>
+    <a href="{{ '/contact/' | relative_url }}" class="section-link">Contact &rarr;</a>
+  </div>
+  <p><a href="mailto:matthiasbitzer94@outlook.de">matthiasbitzer94@outlook.de</a> — I live in Stuttgart, Germany.</p>
+</section>

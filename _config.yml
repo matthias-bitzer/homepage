@@ -3,7 +3,7 @@ title: Matthias Bitzer
 tagline: Research, AI Art and Blog
 description: Personal website featuring AI/ML blog posts, AI art gallery, and publications
 author: Matthias Bitzer
-email: your-email@example.com
+email: matthiasbitzer94@outlook.de
 # For GitHub Pages project site: use "/REPO_NAME" (e.g. /homepage). For user site (username.github.io repo) or custom domain at root: use ""
 baseurl: "/homepage"
 # Use GitHub Pages URL so absolute_url works; change to matthias-bitzer.com when using custom domain
@@ -46,6 +46,8 @@ navigation:
     url: /gallery/
   - title: About
     url: /about/
+  - title: Contact
+    url: /contact/
 
 # Social links
 social:

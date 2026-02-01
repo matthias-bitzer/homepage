@@ -21,3 +21,16 @@ Thumbs.db
 
 # Dependencies
 Gemfile.lock
+
+# Privacy source files (PDFs are committed)
+privacy_soothful_sounds.txt
+privacy_soothful_sounds_en.txt
+privacy_soothful_sounds.html
+privacy_soothful_sounds_en.html
+convert_privacy_to_pdf.py
+convert_privacy_to_pdf_en.py
+
+# Python virtual environment
+.venv/
+venv/
+homepage_venv/

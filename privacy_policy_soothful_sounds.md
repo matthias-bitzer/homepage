@@ -2,6 +2,7 @@
 layout: default
 title: Privacy Policy – Soothful Sounds
 permalink: /privacy_policy_soothful_sounds/
+robots: noindex, nofollow
 ---
 
 <header class="page-header">
